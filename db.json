@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Study React Pre-Class Notes",
+      "day": "Feb 5th at 2:30pm",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "text": "Feed the Dog",
+      "day": "Feb 6th at 1:30pm",
+      "isDone": true
+    },
+    {
+      "text": "Attend in-class",
+      "day": "Feb 10th at 3:00pm",
+      "isDone": false,
+      "id": 3
+    },
+    {
+      "text": "Wash Car",
+      "day": "Feb 10th at 3:00pm",
+      "isDone": true,
+      "id": 4
+    },
+    {
+      "text": "ders çalış",
+      "day": "bugün",
+      "isDone": false,
+      "id": 5
+    }
+  ]
+}
